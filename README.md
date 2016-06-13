@@ -1,6 +1,7 @@
 # Mastery Nickname for League of Legends
 
 Check out the live site and see what your nickname is: [Mastery Nickname for League of Legends](http://xero.tech/mastery/)
+
 If you'd like to see an example this is mine: http://xero.tech/mastery/?name=Xero+Vortex&region=na
 
 Mastery Nickname for League of Legends is an application that was created for the Riot Games API Challenge 2016, which ran from April 22, 2016 through May 9, 2016. The application allows League of Legends players to enter a summoner name (a.k.a. a player name) and it generates a nickname and a procedural image (using loading screen art) for the given player based on that player's champion mastery data.
